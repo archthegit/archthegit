@@ -1,7 +1,22 @@
 👋 Hi, I’m Archana <br /> 
-I am a second year Master's in Computer Science student at the University of California San Diego. <br />
-I was a Research Assistant at the [National University of Singapore](https://www.comp.nus.edu.sg/), working on computer vision problems. <br /> 
-Previously, I was a software engineer at [Grab](https://www.grab.com/sg/) for 2 years working on the new [digital banking](https://www.businesstimes.com.sg/companies-markets/banking-finance/gxs-bank-launches-new-savings-account-select-customers) team 
+I'm a Software Engineer at **Meta** working on AI for Coding / Developer Infrastructure <br/>
+LLM-powered coding agents, agent orchestration, and AI evaluation. <br/>
+Previously: NVIDIA (AI infra), Grab (backend), and computer vision research at NUS.
+
+I think about agents from both ends:
+
+🔧 **[Aethr](https://github.com/archthegit/aethr)** — explicit, programmable AI coding workflows.
+Workflows as code, no magic. `pip install aethr`
+
+🧬 **[Agent-Darwinism](https://github.com/archthegit/agent-darwinism)** — agents shouldn't be
+designed, they should be *selected*. Evolving agent strategies under competitive pressure.
+
+
+- 📄 Co-author, SWE-Protege (AI-for-code research)
+- 💰 Once cut $2.3M/yr in LLM spend with prompt-cache fixes, inference economics is my love language
+- 🎓 MS CS, UC San Diego · BEng Computer Engineering, NUS
+
+📫 archieprad@gmail.com
 
 <!---
 archthegit/archthegit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
